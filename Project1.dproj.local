@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/04/22 01:46:09.704.dfm,D:\Projetos\calculadora\U_principal.dfm=C:\Users\leonardo\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2011/04/22 01:46:09.704.pas,D:\Projetos\calculadora\U_principal.pas=C:\Users\leonardo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/04/22 03:41:21.837.dproj,D:\Projetos\calculadora\Project1.dproj=C:\Users\leonardo\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
